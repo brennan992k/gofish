@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Goldminer/Levels/Play.unity
+  isLoaded: 1
+  isActive: 1
