@@ -1,4 +1,5 @@
 sceneSetups:
-- path: Assets/Goldminer/Levels/Play.unity
+- path: Assets/GoFish/Levels/Play.unity
   isLoaded: 1
   isActive: 1
+  isSubScene: 0

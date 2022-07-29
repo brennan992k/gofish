@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Goldminer/Levels/Play.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/GoFish/Levels/Play.unity
+    guid: 7a56e7e9841df46cdb3fa5353d3bd4a1
   m_configObjects: {}
